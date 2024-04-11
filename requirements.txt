@@ -3,4 +3,5 @@ fitz
 pytesseract
 io
 Image
+flask
 gunicorn
