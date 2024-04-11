@@ -1,5 +1,4 @@
 pandas
-fitz
 pytesseract
 Image
 flask
