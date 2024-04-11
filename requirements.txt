@@ -4,4 +4,4 @@ pytesseract
 Image
 flask
 gunicorn
-PyMuPDF==1.16.14
+PyMuPDF
