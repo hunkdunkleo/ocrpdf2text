@@ -1,0 +1,7 @@
+pandas as pd
+sys
+fitz
+pytesseract
+io
+Image
+gunicorn
