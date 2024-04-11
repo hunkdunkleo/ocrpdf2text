@@ -1,7 +1,6 @@
 pandas
 fitz
 pytesseract
-io
 Image
 flask
 gunicorn
